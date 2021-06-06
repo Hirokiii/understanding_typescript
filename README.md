@@ -9,3 +9,6 @@
 
 ### selectNshare folder
 + Section 13: Time to Practice! Let's build a "Select & Share a Place" App (incl. Google Maps) (You need your own API key).
+
+### react-typescript folder 
++ Section 14: React.js & TypeScript
